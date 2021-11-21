@@ -32,6 +32,6 @@ Track the trend of Representation learning of MultiModal Machine Learning(MMML).
 
 
 ## 3. Others
-#### 1. few-shot-object-detection
+#### 1. awesome-multimodal-ml
 * [website](https://github.com/pliang279/awesome-multimodal-ml)
 * Reading list for research topics in multimodal machine learning
